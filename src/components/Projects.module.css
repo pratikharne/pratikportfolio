@@ -1,0 +1,8 @@
+.projects {
+    margin: 7% 10%;
+    color: #fff;
+}
+.content-center {
+    display: flex;
+    justify-content: center;
+}
